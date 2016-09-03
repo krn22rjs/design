@@ -1,0 +1,42 @@
+
+/* univeral selector: this applies for all the elements in the document. */
+
+*{
+  font-family: Arial, Verdana, sans-serif;
+}
+
+/* type selector: matches the elements names */
+
+h1{
+  font-family: "Courier New", monospace;
+}
+
+i {
+  color: red;
+}
+
+i{
+  color:green;
+}
+
+b{
+  color: pink;
+
+}
+
+/*Descendant Selector: matches an element that is a descendent of another specified element (not a direct child) */
+p b {
+  color: blue !important;
+}
+
+p b {
+  color: violet;
+}
+
+p#intro {
+  font-size: 100%;
+}
+
+p{
+  font-size: 75%;
+}
