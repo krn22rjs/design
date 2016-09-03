@@ -1,0 +1,22 @@
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  text-transform: lowercase;
+}
+
+.credits {
+  text-transform: capitalize;
+}
+
+
+/* TEXT TRANSFORM: form property is used to change the case of text giving it one of the following values:
+
+-UPPERCASE: this causes the text to appear uppercase.
+
+-LOWERCASE:  this cause the text to appear lowercase.
+
+-CAPITALIZE: this causes the first letter of each word to appear capitalize.
+
+*/

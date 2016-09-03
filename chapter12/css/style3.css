@@ -1,0 +1,9 @@
+@ font-face {
+  font-family: "ChuckFiveRegular";
+  src: url('fonts/chuckfive.eot');
+}
+
+
+h1 h2 {
+  font-family: ChuckFiveRegular, Georgia, serif;
+}

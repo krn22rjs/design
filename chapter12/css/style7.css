@@ -1,0 +1,19 @@
+.credits {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Text Decoration property allows you to specify the following values:
+
+
+- NONE: this removes any decoration already applied to the text.
+
+-OVERLINE: This adds a line over the top of the text.
+
+-LINE THROUGH: this adds a line through words.
+
+BLINK: this animates the text to make it flash on and off. 
+*/

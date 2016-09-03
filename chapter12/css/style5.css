@@ -1,0 +1,13 @@
+.credits {
+  font-style: italic;
+}
+
+/* font style: there are three values this property takes
+
+NORMAL:  this causes text to appear in a normal style (as opposed to italic or oblique).
+
+ITALIC: this causes text to appear italic.
+
+OBLIQUE: cause text to appear oblique.
+
+*/

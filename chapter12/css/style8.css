@@ -1,0 +1,26 @@
+h1  {
+  text-align: left;
+}
+
+p {
+  text-align: justify;
+}
+
+.credits {
+  text-align: right;
+}
+
+
+/* Text-align allows you to control the alignment of text. The property can take one of four values:
+
+
+-LEFT: this indicates that the text should be left-aligned.
+
+-RIGHT: this indicates that the text should be right-aligned.
+
+-CENTER: this allows you to center text.
+
+-JUSTIFY: this indicates that every line in a paragraph, except the last line, should be set to take up the full width of the containing box. 
+
+*/
+
