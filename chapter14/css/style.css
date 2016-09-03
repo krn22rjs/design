@@ -1,0 +1,25 @@
+ol {
+  list-style-type: lower-roman;
+}
+
+.note {
+  color: blue;
+}
+
+/* The list-style-type property allows you to control the shape or style of a bullet point (also known as a marker)
+
+undordered list
+-none
+-disc
+-circle
+-square
+
+
+Ordered List
+-decimals
+-lower alpha
+-upper alpha
+-lower roman
+- upper roman 
+
+*/
