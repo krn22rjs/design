@@ -1,0 +1,23 @@
+/* Background Color: sets the color of the background color.
+
+- you can specify your choice of background color in the color name, hex code, and rgb.
+
+- if there are no colors stated then the browser would be transparent or white. */
+
+
+
+
+body {
+  background-color: rgb(200,200,200);
+}
+
+h1 {
+  background-color: DarkCyan;
+}
+h2{
+  background-color: #FF1493
+}
+
+p{
+  background-color: white;
+}

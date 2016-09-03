@@ -1,0 +1,19 @@
+body {
+  background-color: #C8C8C8;
+  background-color: hsl(0, 0%, 78%);
+}
+
+p{
+  background-color: #ffffff;
+  background-color: hsl(0,100%,100%, 0.5);
+}
+
+/* hsl color property has been introduced in CSS3 as an alternative way to specific colors. The value of the property starts with letters hsl followed by individual values inside () */
+
+/* Hue: this is expressed as an angle (between 0 and 360 degrees) */
+
+/* Saturation: this expressed as a percentage. */
+
+/* Lightness:  this expressed as percentage with 0% being white, 50% being normal, and 100% being black.*/
+
+/*hsl: color property allows you to specify color properties using hue, saturation and lightness as above and adds a fourth value which represents transparency (just like the rgba property) : this expressed between 0 and 1.0 . */
